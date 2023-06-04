@@ -1,0 +1,786 @@
+---
+- author:
+    - Loqman Salamatian
+    - Todd Arnold
+    - Ítalo Cunha
+    - Jiangchen Zhu
+    - Yunfan Zhang
+    - Ethan Katz-Bassett
+    - Matt Calder
+  container: SIGCOMM Computer Communication Review
+  doi: 10.1145/3594255.3594260
+  id: salamatian23squatters
+  issn: 0146-4833
+  issue: 1
+  issued: 2023
+  page: 48-72
+  title: Who Squats IPv4 Addresses?
+  type: article-journal
+  volume: 53
+- author:
+    - Brivaldo A. Silva Jr.
+    - Paulo Mol
+    - Osvaldo Fonseca
+    - Ítalo Cunha
+    - Ronaldo A. Ferreira
+    - Ethan Katz-Bassett
+  container: ACM SIGMETRICS
+  id: carvalho22dyssect
+  issued: 2022
+  title: "Automatic Inference of BGP Location Communities"
+  type: paper-conference
+- author:
+    - Joao M. M. Couto
+    - Julio C. S. Reis
+    - Ítalo Cunha
+    - Leandro Araujo
+    - Fabricio Benevenuto
+  container: IEEE/ACM ASONAM
+  id: couto22sitecred
+  issued: 2022
+  title: "Characterizing Low Credibility Websites in Brazil through Computer Networking Attributes"
+  type: paper-conference
+- author:
+    - Fabricio B. Carvalho
+    - Ronaldo A. Ferreira
+    - Ítalo Cunha
+    - Marcos A. M. Vieira
+    - Murali K. Ramanathan
+  container: IEEE INFOCOM
+  id: carvalho22dyssect
+  issued: 2022
+  title: "Dyssect: Dynamic Scaling of Stateful Network Functions"
+  type: paper-conference
+- author:
+    - Nils Rodday
+    - Ítalo Cunha
+    - Randy Bush
+    - Ethan Katz-Bassett
+    - Gabi Dreo Rodosek
+    - Thomas C. Schmidt
+    - Matthias Wahlisch
+  container: Traffic Measurement and Analysis Conference (TMA)
+  id: rodday21rov
+  issued: 2021
+  title: "Revisiting RPKI Route Origin Validation on the Data Plane"
+  type: paper-conference
+- author:
+    - Nils Rodday
+    - Lukas Kaltenbach
+    - Ítalo Cunha
+    - Randy Bush
+    - Ethan Katz-Bassett
+    - Gabi Dreo Rodosek
+    - Thomas C. Schmidt
+    - Matthias Wahlisch
+  container: Workshop on Technologies, Applications, and Uses of a Responsible Internet (TAURIN)
+  id: rodday21default
+  issued: 2021
+  title: "On the Deployment of Default Routes in Inter-domain Routing"
+  type: paper-conference
+- author:
+    - Eliseu C. Miguel
+    - Cristiano M. Silva
+    - Fernando C. Coelho
+    - Ítalo Cunha
+    - Sergio V. A. Campos
+  container: Multimedia Tools and Applications
+  id: miguel20overlays
+  issued: 2021
+  page: 20255-20282
+  title: "Construction and Maintenance of P2P Overlays for Live Streaming"
+  type: article-journal
+  volume: 80
+  issue: 1
+- author:
+    - Racyus D. G. PacIfico
+    - Lucas B. Silva
+    - Gerferson R. Coelho
+    - Pablo G. Silva
+    - Alex B. Vieira
+    - Marcos A. M. Vieira
+    - Ítalo F. S. Cunha
+    - Luiz F. M. Vieira
+    - José A. M. Nacif
+  container: Telecommunication Systems
+  doi: 10.1007/s11235-020-00653-1
+  id: pacifico20bloomtime
+  volume: 74
+  issue: 1
+  issued: 2020
+  page: 201-223
+  title: "BloomTime: Space-efficient Stateful Tracking of Time-dependent Network Performance Metrics"
+  type: article-journal
+- author:
+    - Vilc Q. Rufino
+    - Leandro P. Aguiar
+    - Daniel S. Menasché
+    - Cabral Lima
+    - Ítalo Cunha
+    - Eitan Altman
+    - Rachid El-Azouzi
+    - Francesco Pellegrini
+    - Alberto Avritzer
+    - Michael Grottke
+  container: IEEE Access
+  doi: 10.1007/s11235-020-00653-1
+  id: rufino20herd
+  issue: 1
+  issued: 2020
+  title: Beyond Herd Immunity Against Strategic Attackers
+  type: article-journal
+  volume: 8
+- author:
+    - Tomas Hlavacek
+    - Ítalo Cunha
+    - Yossi Gilad
+    - Amir Herzberg
+    - Ethan Katz-Bassett
+    - Michael Schapira
+    - Haya Shulman
+  container: ISOC NDSS
+  id: hlavacek20disco
+  issued: 2020
+  publisher-place: San Diego, CA
+  title: "DISCO: Sidestepping RPKI's Deployment Barriers"
+  type: paper-conference
+- author:
+    - Vasileios Giotsas
+    - Thomas Koch
+    - Elverton Fazzion
+    - Ítalo Cunha
+    - Matt Calder
+    - Harsha V. Madhyastha
+    - Ethan Katz-Bassett
+  container: ACM IMC
+  id: giotsas20traceroute
+  issued: 2020
+  publisher-place: Virtual Event
+  title: "Reduce, Reuse, Recycle: Repurposing Existing Measurements to Identify Stale Traceroutes"
+  type: paper-conference
+- author:
+    - Osvaldo Fonseca
+    - Ítalo Cunha
+    - Elverton Fazzion
+    - Wagner Meira Jr.
+    - Brivaldo A. Silva Jr.
+    - Ronaldo A. Ferreira
+    - Ethan Katz-Bassett
+  container: IFIP Networking
+  id: fonseca20spoofing
+  issued: 2020
+  title: "Tracking Down Sources of Spoofed IP Packets"
+  type: paper-conference
+- author:
+    - Osvaldo Fonseca
+    - Ítalo Cunha
+    - Elverton Fazzion
+    - Wagner Meira Jr.
+    - Brivaldo A. Silva Jr.
+    - Ronaldo A. Ferreira
+    - Ethan Katz-Bassett
+  container: IFIP Networking
+  id: fonseca20spoofing
+  issued: 2020
+  title: "Tracking Down Sources of Spoofed IP Packets"
+  type: paper-conference
+- author:
+    - Todd Arnold
+    - Jia He
+    - Weifan Jiang
+    - Matt Calder
+    - Ítalo Cunha
+    - Vasileios Giotsas
+    - Ethan Katz-Bassett
+  container: ACM IMC
+  id: arnold20connectivity
+  issued: 2020
+  publisher-place: Virtual Event
+  title: "Cloud Provider Connectivity in the Flat Internet"
+  type: paper-conference
+- author:
+    - Rafael L. C. Almeida
+    - Ítalo Cunha
+    - Renata Teixeira
+    - Darryl Veitch
+    - Christophe Diot
+  container: IEEE INFOCOM
+  id: almeida20mca
+  issued: 2020
+  publisher-place: Beijing, China
+  title: "Classification of Load Balancing in the Internet"
+  type: paper-conference
+- author:
+    - Brandon Schlinker
+    - Ítalo Cunha
+    - Yi-Ching Chiu
+    - Srikanth Sundaresan
+    - Ethan Katz-Bassett
+  container: ACM IMC
+  id: schlinker19fbperf
+  issued: 2019
+  publisher-place: Amsterdam, Netherlands
+  title: "Internet Performance from Facebook's Edge"
+  type: paper-conference
+- author:
+    - Brandon Schlinker
+    - Todd Arnold
+    - Ítalo Cunha
+    - Ethan Katz-Bassett
+  container: ACM CoNEXT
+  id: schlinker19peering
+  issued: 2019
+  publisher-place: Orlando, FL
+  title: "PEERING: Virtualizing BGP at the Edge for Research"
+  type: paper-conference
+- author:
+    - Gustavo V. Machado
+    - Ítalo Cunha
+    - Adriano C. M. Pereira
+    - Leonardo B. Oliveira
+  container: Journal of Internet Services and Applications
+  id: machado19dodetl
+  issue: 21
+  issued: 2019
+  page: 1-15
+  title: "DOD-ETL: Distributed On-demand ETL for Near Real-time Business Intelligence"
+  type: article-journal
+  volume: 10
+- author:
+    - Gabriel Bastos
+    - Artur Marzano
+    - Osvaldo Fonseca
+    - Elverton Fazzion
+    - Cristine Hoepers
+    - Klaus Steding-Jessen
+    - Marcelo H. P. Chaves
+    - Italo Cunha
+    - Dorgival Guedes
+    - Wagner Meira Jr.
+  container: IEEE ISCC
+  id: bastos19malware
+  issued: 2019
+  publisher-place: Barcelona, Spain
+  title: "Identifying and Characterizing Bashlite and Mirai CnC Servers"
+  type: paper-conference
+- author:
+    - Todd Arnold
+    - Matt Calder
+    - Italo Cunha
+    - Arpit Gupta
+    - Harsha V. Madhyastha
+    - Michael Schapira
+    - Ethan Katz-Bassett
+  container: ACM HotNets
+  id: arnold19bgp
+  issued: 2019
+  publisher-place: Princeton, NJ
+  title: "Beating BGP is Harder than we Thought"
+  type: paper-conference
+- author:
+    - Artur L. F. Souza
+    - Italo Cunha
+    - Leonardo B. Oliveira
+  container: International Journal of Network Management
+  doi: 10.1002/nem.1998
+  id: souza17nomadikey
+  issue: 1
+  issued: 2018
+  page: e1998-n/a
+  title: "NomadiKey: User Authentication for Smart Devices based on Nomadic Keys"
+  type: article-journal
+  volume: 28
+- author:
+    - Andreas Reuter
+    - Randy Bush
+    - Italo Cunha
+    - Ethan Katz-Bassett
+    - Thomas C. Schmidt
+    - Matthias Wahlisch
+  container: ACM SIGCOMM Computer Communication Review
+  id: reuter18rpki
+  issue: 1
+  issued: 2018
+  page: 19-27
+  title: "Towards a Rigorous Methodology for Measuring Adoption of RPKI Route Validation and Filtering"
+  type: article-journal
+  volume: 48
+- author:
+    - Artur Marzano
+    - David Alexander
+    - Osvaldo Fonseca
+    - Elverton Fazzion
+    - Cristine Hoepers
+    - Klaus Steding-Jessen
+    - Marcelo H. P. Chaves
+    - Italo Cunha
+    - Dorgival Guedes
+    - Wagner Meira Jr.
+  container: IEEE ISCC
+  id: marzano18botnets
+  issued: 2018
+  publisher-place: Natal, Brazil
+  title: "The Evolution of Bashlite and Mirai IoT Botnets"
+  type: paper-conference
+- author:
+    - Luis F. C. Martins
+    - Italo Cunha
+    - Dorgival Guedes
+  container: IEEE ISCC
+  id: martins18sdix
+  issued: 2018
+  publisher-place: Natal, Brazil
+  title: "An SDN-based Framework for Managing Internet Exchange Points"
+  type: paper-conference
+- author:
+    - Brandon Schlinker
+    - Hyojeong Kim
+    - Timothy Cui
+    - Ethan Katz-Bassett
+    - Harsha V. Madhyastha
+    - Italo Cunha
+    - James Quinn
+    - Saif Hasan
+    - Petr Lapukhov
+    - Hongyi Zeng
+  container: ACM SIGCOMM
+  id: schlinker17edgefabric
+  issued: 2017
+  publisher-place: Los Angeles, CA
+  title: "Engineering Egress with Edge Fabric: Steering Oceans of Content to the World"
+  type: paper-conference
+- author:
+    - João F. A. Oliveira
+    - Ítalo Cunha
+    - Eliseu C. Miguel
+    - Sérgio V. A. Campos
+  container: IEEE Globecom
+  id: oliveira17aero
+  issued: 2017
+  publisher-place: Singapore
+  title: "AERO: Adaptive Emergency Request Optimization in CDN-P2P Live Streaming"
+  type: paper-conference
+- author:
+    - Eliseu C. Miguel
+    - Ítalo Cunha
+    - Cristiano M. Silva
+    - Fernando Carvalho
+    - Sérgio V. A. Campos
+  container: IEEE ISCC
+  id: miguel17flashcrowd
+  issued: 2017
+  publisher-place: Heraklion, Crete, Greece
+  title: "Resource-constrained P2P Streaming Overlay Construction for Efficient Joining Under Flash Crowds"
+  type: paper-conference
+- author:
+    - Thiago Guarnieri
+    - Ítalo Cunha
+    - Jussara M. Almeida
+    - Idilio Drago
+    - Alex B. Vieira
+  container: IEEE Globecom
+  id: guarnieri17qos
+  issued: 2017
+  publisher-place: Singapore
+  title: "Characterizing QoE in Large-Scale Live Streaming"
+  type: paper-conference
+- author:
+    - Leonardo Cotta
+    - Artur Luis Fernandes
+    - Leandro T. C. Melo
+    - Luiz Felipe Z. Saggioro
+    - Frederico Martins
+    - Antonio L. Maia Neto
+    - Antonio A. F. Loureiro
+    - Ítalo Cunha
+    - Leonardo B. Oliveira
+  container: IEEE ICC
+  id: cotta16nomadikey
+  issued: 2016-05
+  publisher-place: Kuala Lampur, Malaysia
+  title: "NomadiKey: User Authentication for Smart Devices based on Nomadic Keys"
+  type: paper-conference
+- author:
+    - Heitor Moraes
+    - Marcos A. M. Vieira
+    - Ítalo Cunha
+    - Dorgival Guedes
+  container: IFIP Networking
+  id: moraes16lanes
+  issued: 2016
+  publisher-place: Vienna, Austria
+  title: "Efficient Virtual Network Isolation in Multi-Tenant Data Centers on Commodity Ethernet Switches"
+  type: paper-conference
+- author:
+    - Pietro Marchetta
+    - Antonio Montieri
+    - Valerio Persico
+    - Antonio Pescape
+    - Ítalo Cunha
+    - Ethan Katz-Bassett
+  container: IEEE LANMAN
+  id: marchetta16routerpaths
+  issued: 2016
+  publisher-place: Rome, Italy
+  title: "How and How Much Traceroute Confuses Our Understanding of Network Paths"
+  type: paper-conference
+- author:
+    - Antonio L. Maia Neto
+    - Artur L. F. Souza
+    - Ítalo Cunha
+    - Michele Nogueira
+    - Ivan O. Nunes
+    - Leonardo Cotta
+    - Nicolas Gentille
+    - Antonio A. F. Loureiro
+    - Diego F. Aranha
+    - Harsh K. Patil
+    - Leonardo B. Oliveira
+  container: ACM SenSys
+  id: maia16aot
+  issued: 2016
+  publisher-place: Stanford, CA
+  title: "AoT: Authentication and Access Control for the Entire IoT Device Life-Cycle"
+  type: paper-conference
+- author:
+    - Glauber D. Goncalves
+    - Ítalo Cunha
+    - Alex B. Vieira
+    - Jussara M. Almeida
+  container: Multimedia Systems
+  id: goncalves14predicting
+  issue: 2
+  issued: 2016
+  page: 161-180
+  title: "Predicting the Level of Cooperation in a Peer-to-Peer Live Streaming Application"
+  type: article-journal
+  volume: 22
+- author:
+    - Osvaldo Fonseca
+    - Elverton Fazzion
+    - Ítalo Cunha
+    - Pedro Las-Casas
+    - Dorgival Guedes
+    - Wagner Meira Jr.
+    - Cristine Hoepers
+    - Klaus Steding-Jessen
+    - Marcelo H. P. Chaves
+  container: IEEE Internet Computing
+  id: fonseca16spam
+  issue: 4
+  issued: 2016
+  page: 16-24
+  title: "Measuring, Characterizing, and Avoiding Spam Traffic Costs"
+  type: article-journal
+  volume: 20
+- author:
+    - Ítalo Cunha
+    - Pietro Marchetta
+    - Matt Calder
+    - Yi-Ching Chiu
+    - Brandon Schlinker
+    - Bruno V. A. Machado
+    - Antonio Pescape
+    - Vasileios Giotsas
+    - Harsha V. Madhyastha
+    - Ethan Katz-Bassett
+  container: USENIX NSDI
+  id: cunha16sibyl
+  issued: 2016
+  publisher-place: Santa Clara, CA
+  title: "Sibyl: A Practical Internet Route Oracle"
+  type: paper-conference
+- author:
+    - Rafael L. C. Almeida
+    - Osvaldo Fonseca
+    - Elverton Fazzion
+    - Dorgival Guedes
+    - Wagner Meira Jr.
+    - Ítalo Cunha
+  container: Passive and Active Measurement Conference (PAM)
+  id: almeida17mda6
+  issued: 2016
+  publisher-place: Sydney, Australia
+  title: "A Characterization of Load Balancing on the IPv6 Internet"
+  type: paper-conference
+- author:
+    - Rodrigo Duarte
+    - Alex B. Vieira
+    - Ítalo Cunha
+    - Jussara M. Almeida
+  container: IFIP Networking
+  id: duarte15failures
+  issued: 2015-05
+  publisher-place: Toulouse, France
+  title: "Impact of Provider Failures on the Traffic at a University Campus"
+  type: paper-conference
+- author:
+    - Ítalo Cunha
+    - Renata Teixeira
+    - Darryl Veitch
+    - Christophe Diot
+  container: ACM/IEEE Transactions on Networking
+  id: cunha14dtrack
+  issue: 4
+  issued: 2015
+  page: 1025-1038
+  title: "DTrack: A System to Predict and Track Internet Path Changes"
+  type: article-journal
+  volume: 22
+- author:
+    - Ruwaifa Anwar
+    - Haseeb Niaz
+    - David R. Choffnes
+    - Ítalo Cunha
+    - Phillipa Gill
+    - Ethan Katz-Bassett
+  container: ACM IMC
+  id: anwar15policies
+  issued: 2015
+  publisher-place: Tokio, Japan
+  title: "Investigating Interdomain Routing Policies in the Wild"
+  type: paper-conference
+- author:
+    - Brandon Schlinker
+    - Kyriakos Zarifis
+    - Ítalo Cunha
+    - Nick Feamster
+    - Ethan Katz-Bassett
+  container: ACM HotNets
+  id: schlinker14peering
+  issued: 2014
+  publisher-place: Los Angeles, CA
+  title: "PEERING: An AS for Us"
+  type: paper-conference
+- author:
+    - Evaldo Souza
+    - Hao Chi Wong
+    - Ítalo Cunha
+    - Antonio A. F. Loureiro
+    - Luiz F. M. Vieira
+    - Leonardo B. Oliveira
+  container: IEEE ISCC
+  id: souza13underwater
+  issued: 2013
+  publisher-place: Split, Croatia
+  title: "End-to-End Authentication in Under-Water Sensor Networks"
+  type: paper-conference
+- author:
+    - Joao F. A. Oliveira
+    - Eliseu C. Miguel
+    - Marcus V. M. Rocha
+    - Alex B. Vieira
+    - Sergio V. A. Campos
+  container: IEEE P2P
+  id: oliveira13freerider
+  issued: 2013
+  publisher-place: Trento, Italy
+  title: "Can Peer-to-Peer Live Streaming Systems Coexist with Free Riders?"
+  type: paper-conference
+- author:
+    - Umar Javed
+    - Ítalo Cunha
+    - David R. Choffnes
+    - Ethan Katz-Bassett
+    - Thomas Anderson
+    - Arvind Krishnamurthy
+  container: ACM SIGCOMM
+  id: javed13poiroot
+  issued: 2013
+  publisher-place: Hong Kong, China
+  title: "PoiRoot: Investigating the Root Cause of Interdomain Path Changes"
+  type: paper-conference
+- author:
+    - Sriharsha Gangam
+    - Jaideep Chandrashekar
+    - Ítalo Cunha
+    - Jim Kurose
+  container: Passive and Active Measurement Conference (PAM)
+  id: gangam13ale
+  issued: 2013
+  publisher-place: Hong Kong, China
+  title: "Estimating TCP Latency Approximately with Passive Measurements"
+  type: paper-conference
+- author:
+    - Felipe D. Cunha
+    - Ítalo Cunha
+    - Hao Chi Wong
+    - Antonio A. F. Loureiro
+    - Leonardo B. Oliveira
+  container: IEEE ISCC
+  id: cunha13idmac
+  issued: 2013
+  publisher-place: Split, Croatia
+  title: "ID-MAC: An Identity-Based MAC Protocol for Wireless Sensor Networks"
+  type: paper-conference
+- author:
+    - Glauber D. Goncalves
+    - Anna Guimaraes
+    - Alex B. Vieira
+    - Ítalo Cunha
+    - Jussara M. Almeida
+  container: IFIP Networking
+  id: goncalves12centrality
+  issued: 2012-05
+  publisher-place: Prague, Czech Republic
+  title: "Using Centrality Metrics to Predict Peer Cooperation in Live Streaming Applications"
+  type: paper-conference
+- author:
+    - Ethan Katz-Bassett
+    - Colin Scott
+    - David R. Choffnes
+    - Ítalo Cunha
+    - Vytautas Valancius
+    - Nick Feamster
+    - Harsha V. Madhyastha
+    - Thomas Anderson
+    - Arvind Krishnamurthy
+  container: ACM SIGCOMM
+  id: katzbassett12lifeguard
+  issued: 2012
+  publisher-place: Helsinki, Finland
+  title: "LIFEGUARD: Practical Repair of Persistent Route Failures"
+  type: paper-conference
+- author:
+    - Ethan Katz-Bassett
+    - David R. Choffnes
+    - Ítalo Cunha
+    - Colin Scott
+    - Thomas Anderson
+    - Arvind Krishnamurthy
+  container: ACM HotNets
+  id: katzbassett11poisoning
+  issued: 2011
+  publisher-place: Cambridge, MA
+  title: "Machiavellian Routing: Improving Internet Availability with BGP Poisoning"
+  type: paper-conference
+- author:
+    - Ítalo Cunha
+    - Renata Teixeira
+    - Darryl Veitch
+    - Christophe Diot
+  container: ACM SIGCOMM
+  id: cunha11dtrack
+  issued: 2011
+  publisher-place: Toronto, Canada
+  title: "Predicting and Tracking Internet Path Changes"
+  type: paper-conference
+- author:
+    - Ítalo Cunha
+    - Renata Teixeira
+    - Christophe Diot
+  container: Passive and Active Measurement Conference (PAM)
+  id: cunha11fastmapping
+  issued: 2011
+  publisher-place: Atlanta, GA
+  title: "Measuring and Characterizing End-to-End Route Dynamics in the Presence of Load Balancing"
+  type: paper-conference
+- author:
+    - Jussara Almeida
+    - Virgilio Almeida
+    - Danilo Ardagna
+    - Ítalo Cunha
+    - Chiara Francalanci
+    - Marco Trubian
+  container: Journal of Parallel and Distributed Computing
+  id: almeida10allocation
+  issue: 4
+  issued: 2010
+  page: 344-362
+  title: "Joint Admission Control and Resource Allocation in Virtualized Servers"
+  type: article-journal
+  volume: 70
+- author:
+    - Ítalo Cunha
+    - Fernando Silveira
+    - Ricardo Oliveira
+    - Renata Teixeira
+    - Christophe Diot
+  container: Passive and Active Measurement Conference (PAM)
+  id: cunha09flowtools
+  issued: 2009
+  publisher-place: Seoul, Korea
+  title: "Uncovering Artifacts in Flow Measurement Tools"
+  type: paper-conference
+- author:
+    - Ítalo Cunha
+    - Renata Teixeira
+    - Nick Feamster
+    - Christophe Diot
+  container: ACM IMC
+  id: cunha09tomoinputs
+  issued: 2009
+  publisher-place: Chicago, IL
+  title: "Measurement Methods for Fast and Accurate Blackhole Identification with Binary Tomography"
+  type: paper-conference
+- author:
+    - Ítalo Cunha
+    - Itamar Viana
+    - Jussara Almeida
+    - Virgilio Almeida
+  container: IFIP/IEEE NOMS
+  id: cunha08capacity
+  issued: 2008
+  publisher-place: Salvador, Brazil
+  title: "Analyzing Security and Energy Tradeoffs in Autonomic Capacity Management"
+  type: paper-conference
+- author:
+    - Ítalo Cunha
+    - Jussara Almeida
+    - Virgilio Almeida
+    - Marcos A. Santos
+  container: IFIP/IEEE IM
+  id: cunha07capacity
+  issued: 2007
+  publisher-place: Munich, Germany
+  title: "Self-Adaptive Capacity Management for Multi-Tier Virtualized Environments"
+  type: paper-conference
+- author:
+    - Marcus V. Rocha
+    - Marcelo Maia
+    - Ítalo Cunha
+    - Jussara M. Almeida
+    - Sergio Campos
+  container: ACM Multimedia
+  id: rocha05interactive
+  issued: 2005
+  publisher-place: Singapore, Singapore
+  title: "Scalable Media Streaming to Interactive Users"
+  type: paper-conference
+- author:
+    - Cristiano Costa
+    - Ítalo Cunha
+    - Alex B. Vieira
+    - Claudiney Ramos
+    - Marcus V. Rocha
+    - Jussara M. Almeida
+    - Berthier Ribeiro-Neto
+  container: ACM WWW
+  id: costa04interactive
+  issued: 2004
+  publisher-place: New York, NY
+  title: "Analyzing Client Interactive Behavior in Streaming Media Servers"
+  type: paper-conference
+- author:
+    - Alex B. Vieira
+    - Jussara M. Almeida
+    - Erik Guimaraes
+    - Cristiano Costa
+    - Ítalo Cunha
+  container: ED-MEDIA
+  id: vieira04easypres
+  issued: 2004
+  publisher-place: Lugano, Switzerland
+  title: "Analyzing Client Interactive Behavior in Streaming Media Servers"
+  type: paper-conference
+- author:
+    - Cristiano Costa
+    - Claudiney V. Ramos
+    - Ítalo Cunha
+    - Jussara M. Almeida
+  container: IEEE Workshop on Workload Characterization
+  id: costa04interactive
+  issued: 2004
+  publisher-place: Austin, TX
+  title: "GENIUS: Generator of Interactive User Media Sessions"
+  type: paper-conference
