@@ -1,6 +1,6 @@
 {{ range .Site.Data.papers }}
 
-<p style="margin: 0;"><b>{{ .title }}.</b>
+<p style="margin: 0;"><b>{{ .title }}{{ cond (or (hasSuffix .title "?") (hasSuffix .title "!")) "" "." }}</b>
 <i>{{ delimit .author  ", " ", and " }}.</i></p>
 
 <p style="margin-top: .3em; margin-bottom: .3em;">
