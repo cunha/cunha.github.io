@@ -11,7 +11,7 @@ showMenuItems = 99
 themeColor = 'blue'
 # contentTypeName = "homepage"
 # mainSections = ["homepage"]
-# favicon = "favicon.ico"
+favicon = "img/dcc-icon.png"
 
 [module]
 [[module.imports]]
