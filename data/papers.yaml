@@ -18,6 +18,30 @@
   type: article-journal
   volume: 53
 - author:
+    - Jiangchen Zhu
+    - Kevin Vermeulen
+    - Italo Cunha
+    - Ethan Katz-Bassett
+    - Matt Calder
+  container: ACM IMC
+  doi: 10.1145/3517745.3561421
+  id: zhu22cdnroute
+  issued: 2022
+  title: "The Best of Both Worlds: High Availability CDN Routing Without Compromising Control"
+  type: paper-conference
+- author:
+    - Kevin Vermeulen
+    - Ege Gurmericliler
+    - Italo Cunha
+    - David Choffnes
+    - Ethan Katz-Bassett
+  container: ACM IMC
+  doi: 10.1145/3517745.3561422
+  id: vermeulen22revtr
+  issued: 2022
+  title: Internet Scale Reverse Traceroute
+  type: paper-conference
+- author:
     - Brivaldo A. Silva Jr.
     - Paulo Mol
     - Osvaldo Fonseca
