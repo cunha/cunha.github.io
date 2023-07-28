@@ -20,7 +20,7 @@
 - author:
     - Jiangchen Zhu
     - Kevin Vermeulen
-    - Italo Cunha
+    - Ítalo Cunha
     - Ethan Katz-Bassett
     - Matt Calder
   container: ACM IMC
@@ -32,7 +32,7 @@
 - author:
     - Kevin Vermeulen
     - Ege Gurmericliler
-    - Italo Cunha
+    - Ítalo Cunha
     - David Choffnes
     - Ethan Katz-Bassett
   container: ACM IMC
@@ -49,7 +49,7 @@
     - Ronaldo A. Ferreira
     - Ethan Katz-Bassett
   container: ACM SIGMETRICS
-  id: carvalho22dyssect
+  id: silva22communities
   issued: 2022
   title: "Automatic Inference of BGP Location Communities"
   type: paper-conference
