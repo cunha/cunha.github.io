@@ -76,6 +76,19 @@
   title: "Dyssect: Dynamic Scaling of Stateful Network Functions"
   type: paper-conference
 - author:
+    - Osvaldo Fonseca
+    - Ítalo Cunha
+    - Elverton Fazzion
+    - Wagner Meira Jr.
+    - Brivaldo A. Silva Jr.
+    - Ronaldo A. Ferreira
+    - Ethan Katz-Bassett
+  container: IEEE Transactions on Network and Service Management
+  id: fonseca21spoofing
+  issued: 2021
+  title: Identifying Networks Vulnerable to IP Spoofing
+  type: article-journal
+- author:
     - Nils Rodday
     - Ítalo Cunha
     - Randy Bush
