@@ -209,19 +209,6 @@
   title: "Tracking Down Sources of Spoofed IP Packets"
   type: paper-conference
 - author:
-    - Osvaldo Fonseca
-    - Ítalo Cunha
-    - Elverton Fazzion
-    - Wagner Meira Jr.
-    - Brivaldo A. Silva Jr.
-    - Ronaldo A. Ferreira
-    - Ethan Katz-Bassett
-  container: IFIP Networking
-  id: fonseca20spoofing
-  issued: 2020
-  title: "Tracking Down Sources of Spoofed IP Packets"
-  type: paper-conference
-- author:
     - Todd Arnold
     - Jia He
     - Weifan Jiang
