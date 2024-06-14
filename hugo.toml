@@ -1,4 +1,4 @@
-baseURL = 'http://www.2advanced.dev'
+baseURL = 'https://cunha.github.io'
 languageCode = 'en-us'
 title = 'Italo Cunha, DCC/UFMG'
 theme = 'terminal'

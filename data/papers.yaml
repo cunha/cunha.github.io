@@ -1,5 +1,37 @@
 ---
 - author:
+    - Fabrício B. Carvalho
+    - Ronaldo A. Ferreira
+    - Ítalo Cunha
+    - Marcos A. M. Vieira
+    - Murali K. Ramanathan
+  title: State Disaggregation for Dynamic Scaling of Network Functions
+  container: IEEE/ACM Transactions on Networking
+  doi: 10.1109/TNET.2023.3282562
+  id: carvalho24nfvstate
+  type: article-journal
+  issue: 1
+  volume: 32
+  issued: 2024
+  page: 81-95
+- author:
+    - Nils Rodday
+    - Ítalo Cunha
+    - Randy Bush
+    - Ethan Katz-Bassett
+    - Gabi Dreo Rodosek
+    - Thomas C. Schmidt
+    - Matthias Wahlisch
+  title: "The Resource Public Key Infrastructure (RPKI): A Survey on Measurements and Future Prospects"
+  container: IEEE Transactions on Network and Service Management
+  doi: 10.1109/TNSM.2023.3327455
+  id: rodday24survey
+  type: article-journal
+  volume: 21
+  issue: 2
+  page: 2353-2373
+  issued: 2024
+- author:
     - Loqman Salamatian
     - Todd Arnold
     - Ítalo Cunha
