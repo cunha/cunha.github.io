@@ -1,0 +1,184 @@
+
+TY  - JOUR
+AU  - Osvaldo Fonseca
+AU  - Ítalo Cunha
+AU  - Elverton Fazzion
+AU  - Wagner Meira Jr.
+AU  - Brivaldo A. Silva Jr.
+AU  - Ronaldo A. Ferreira
+AU  - Ethan Katz-Bassett
+TI  - Identifying Networks Vulnerable to IP Spoofing
+JO  - IEEE Transactions on Network and Service Management
+DO  - 10.1109/TNSM.2021.3061486
+PY  - 2021
+VL  - 18
+IS  - 3
+ER  -
+
+TY  - CONF
+AU  - Kevin Vermeulen
+AU  - Ege Gurmericliler
+AU  - Ítalo Cunha
+AU  - David Choffnes
+AU  - Ethan Katz-Bassett
+TI  - Internet Scale Reverse Traceroute
+JO  - ACM IMC
+DO  - 10.1145/3517745.3561422
+PY  - 2022
+ER  -
+
+TY  - CONF
+AU  - Todd Arnold
+AU  - Jia He
+AU  - Weifan Jiang
+AU  - Matt Calder
+AU  - Ítalo Cunha
+AU  - Vasileios Giotsas
+AU  - Ethan Katz-Bassett
+TI  - Cloud Provider Connectivity in the Flat Internet
+JO  - ACM IMC
+DO  - 10.1145/3419394.3423613
+PY  - 2020
+CY  - Virtual Event
+ER  -
+
+TY  - CONF
+AU  - Brandon Schlinker
+AU  - Todd Arnold
+AU  - Ítalo Cunha
+AU  - Ethan Katz-Bassett
+TI  - PEERING: Virtualizing BGP at the Edge for Research
+JO  - ACM CoNEXT
+DO  - 10.1145/3359989.3365414
+PY  - 2019
+CY  - Orlando, FL
+ER  -
+
+TY  - CONF
+AU  - Tomas Hlavacek
+AU  - Ítalo Cunha
+AU  - Yossi Gilad
+AU  - Amir Herzberg
+AU  - Ethan Katz-Bassett
+AU  - Michael Schapira
+AU  - Haya Shulman
+TI  - DISCO: Sidestepping RPKI's Deployment Barriers
+JO  - ISOC NDSS
+PY  - 2020
+CY  - San Diego, CA
+ER  -
+
+TY  - CONF
+AU  - Brandon Schlinker
+AU  - Hyojeong Kim
+AU  - Timothy Cui
+AU  - Ethan Katz-Bassett
+AU  - Harsha V. Madhyastha
+AU  - Italo Cunha
+AU  - James Quinn
+AU  - Saif Hasan
+AU  - Petr Lapukhov
+AU  - Hongyi Zeng
+TI  - Engineering Egress with Edge Fabric: Steering Oceans of Content to the World
+JO  - ACM SIGCOMM
+DO  - 10.1145/3098822.3098853
+PY  - 2017
+CY  - Los Angeles, CA
+ER  -
+
+TY  - CONF
+AU  - Jiangchen Zhu
+AU  - Kevin Vermeulen
+AU  - Ítalo Cunha
+AU  - Ethan Katz-Bassett
+AU  - Matt Calder
+TI  - The Best of Both Worlds: High Availability CDN Routing Without Compromising Control
+JO  - ACM IMC
+DO  - 10.1145/3517745.3561421
+PY  - 2022
+ER  -
+
+TY  - CONF
+AU  - Brivaldo A. Silva Jr.
+AU  - Paulo Mol
+AU  - Osvaldo Fonseca
+AU  - Ítalo Cunha
+AU  - Ronaldo A. Ferreira
+AU  - Ethan Katz-Bassett
+TI  - Automatic Inference of BGP Location Communities
+JO  - ACM SIGMETRICS
+DO  - 10.1145/3489048.3522643
+PY  - 2022
+ER  -
+
+TY  - CONF
+AU  - Vasileios Giotsas
+AU  - Thomas Koch
+AU  - Elverton Fazzion
+AU  - Ítalo Cunha
+AU  - Matt Calder
+AU  - Harsha V. Madhyastha
+AU  - Ethan Katz-Bassett
+TI  - Reduce, Reuse, Recycle: Repurposing Existing Measurements to Identify Stale Traceroutes
+JO  - ACM IMC
+DO  - 10.1145/3419394.3423654
+PY  - 2020
+CY  - Virtual Event
+ER  -
+
+TY  - CONF
+AU  - Ítalo Cunha
+AU  - Pietro Marchetta
+AU  - Matt Calder
+AU  - Yi-Ching Chiu
+AU  - Brandon Schlinker
+AU  - Bruno V. A. Machado
+AU  - Antonio Pescape
+AU  - Vasileios Giotsas
+AU  - Harsha V. Madhyastha
+AU  - Ethan Katz-Bassett
+TI  - Sibyl: A Practical Internet Route Oracle
+JO  - USENIX NSDI
+PY  - 2016
+CY  - Santa Clara, CA
+ER  -
+
+TY  - CONF
+AU  - Jiangchen Zhu
+AU  - Kevin Vermeulen
+AU  - Ítalo Cunha
+AU  - Ethan Katz-Bassett
+AU  - Matt Calder
+TI  - The Best of Both Worlds: High Availability CDN Routing Without Compromising Control
+JO  - ACM IMC
+DO  - 10.1145/3517745.3561421
+PY  - 2022
+ER  -
+
+TY  - CONF
+AU  - Brivaldo A. Silva Jr.
+AU  - Paulo Mol
+AU  - Osvaldo Fonseca
+AU  - Ítalo Cunha
+AU  - Ronaldo A. Ferreira
+AU  - Ethan Katz-Bassett
+TI  - Automatic Inference of BGP Location Communities
+JO  - ACM SIGMETRICS
+DO  - 10.1145/3489048.3522643
+PY  - 2022
+ER  -
+
+TY  - CONF
+AU  - Vasileios Giotsas
+AU  - Thomas Koch
+AU  - Elverton Fazzion
+AU  - Ítalo Cunha
+AU  - Matt Calder
+AU  - Harsha V. Madhyastha
+AU  - Ethan Katz-Bassett
+TI  - Reduce, Reuse, Recycle: Repurposing Existing Measurements to Identify Stale Traceroutes
+JO  - ACM IMC
+DO  - 10.1145/3419394.3423654
+PY  - 2020
+CY  - Virtual Event
+ER  -

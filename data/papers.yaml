@@ -56,8 +56,8 @@
     - Ethan Katz-Bassett
     - Matt Calder
   container: ACM IMC
-  doi: 10.1145/3517745.3561421
   id: zhu22cdnroute
+  doi: 10.1145/3517745.3561421
   issued: 2022
   title: "The Best of Both Worlds: High Availability CDN Routing Without Compromising Control"
   type: paper-conference
@@ -82,6 +82,7 @@
     - Ethan Katz-Bassett
   container: ACM SIGMETRICS
   id: silva22communities
+  doi: 10.1145/3489048.3522643
   issued: 2022
   title: "Automatic Inference of BGP Location Communities"
   type: paper-conference
@@ -117,6 +118,7 @@
     - Ethan Katz-Bassett
   container: IEEE Transactions on Network and Service Management
   id: fonseca21spoofing
+  doi: 10.1109/TNSM.2021.3061486
   issued: 2021
   title: Identifying Networks Vulnerable to IP Spoofing
   type: article-journal
@@ -223,6 +225,7 @@
     - Ethan Katz-Bassett
   container: ACM IMC
   id: giotsas20traceroute
+  doi: 10.1145/3419394.3423654
   issued: 2020
   publisher-place: Virtual Event
   title: "Reduce, Reuse, Recycle: Repurposing Existing Measurements to Identify Stale Traceroutes"
@@ -250,6 +253,7 @@
     - Ethan Katz-Bassett
   container: ACM IMC
   id: arnold20connectivity
+  doi: 10.1145/3419394.3423613
   issued: 2020
   publisher-place: Virtual Event
   title: "Cloud Provider Connectivity in the Flat Internet"
@@ -285,6 +289,7 @@
     - Ethan Katz-Bassett
   container: ACM CoNEXT
   id: schlinker19peering
+  doi: 10.1145/3359989.3365414
   issued: 2019
   publisher-place: Orlando, FL
   title: "PEERING: Virtualizing BGP at the Edge for Research"
@@ -401,6 +406,7 @@
     - Hongyi Zeng
   container: ACM SIGCOMM
   id: schlinker17edgefabric
+  doi: 10.1145/3098822.3098853
   issued: 2017
   publisher-place: Los Angeles, CA
   title: "Engineering Egress with Edge Fabric: Steering Oceans of Content to the World"
