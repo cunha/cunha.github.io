@@ -1,5 +1,42 @@
 ---
 - author:
+    - Brivaldo A. Silva Jr.
+    - Adriano Bastos de Carvalho
+    - Ítalo Cunha
+    - Timur Friedman
+    - Ethan Katz-Bassett
+    - Ronaldo A. Ferreira
+  title: Uncovering BGP Action Communities and Community Squatters in the Wild
+  container: ACM SIGMETRICS
+  doi: 10.1145/3700431
+  id: silva24communities
+  type: paper-conference
+  issued: 2024
+- author:
+    - Sichang He
+    - Italo Cunha
+    - Ethan Katz-Bassett
+  title: "RPSLyzer: Characterization and Verification of Policies in Internet Routing Registries"
+  container: ACM IMC
+  doi: 10.1145/3646547.3689018
+  id: he24rpslyzer
+  type: paper-conference
+  issued: 2024
+  page: 365-374
+- author:
+    - Loqman Salamatian
+    - Kevin Vermeulen
+    - Italo Cunha
+    - Vasilis Giotsas
+    - Ethan Katz-Bassett
+  title: "metAScritic: Reframing AS-Level Topology Discovery as a Recommendation System"
+  container: ACM IMC
+  doi: 10.1145/3646547.368842
+  id: salamatian24metascritic
+  type: paper-conference
+  issued: 2024
+  page: 337-364
+- author:
     - Fabrício B. Carvalho
     - Ronaldo A. Ferreira
     - Ítalo Cunha
