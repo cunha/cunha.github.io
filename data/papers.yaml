@@ -52,6 +52,18 @@
   issued: 2024
   page: 81-95
 - author:
+    - Antonio M. R. Franco
+    - Italo Cunha
+    - Leonardo B. Oliveira
+  title: "Evaluation of Deep Neural Network Architectures for Authorship Obfuscation of Portuguese Texts"
+  doi: 10.1016/j.nlp.2024.100107
+  id: franco24author
+  type: article-journal
+  volume: 9
+  issue: 1
+  page: 100107
+  issued: 2024   
+- author:
     - Nils Rodday
     - Ítalo Cunha
     - Randy Bush
