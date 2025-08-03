@@ -1,5 +1,18 @@
 ---
 - author:
+    - Elverton Fazzion
+    - Giancarlo Teixeira
+    - Darryl Veitch
+    - Christophe Diot
+    - Renata Teixeira
+    - Italo Cunha
+  title: "RemapRoute: Local Remapping of Internet Path Changes"
+  container: ACM IMC
+  doi: 10.1145/3730567.3732923
+  id: fazzion25remaproute
+  type: paper-conference
+  issued: 2025
+- author:
     - Brivaldo A. Silva Jr.
     - Adriano Bastos de Carvalho
     - Ítalo Cunha
