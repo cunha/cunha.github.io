@@ -33,7 +33,7 @@ Another thing you should take care of is figure placement (consideration 5 above
 
 ## Hyphens, en-dashes, and em-dashes
 
-We have three different dashes in writing text, each with different purposes in text. The hyphen is used in word hyphenization[^2], numbers (e.g., forty-two), and compound words (e.g., plain-text). This is the key to the right of zero in US ANSI keyboards, and it is also an ASCII character, so you can just type it whenever needed.
+We have three different dashes in writing text, each with different purposes in text. The hyphen is used in word hyphenization,[^2] numbers (e.g., forty-two), and compound words (e.g., plain-text). This is the key to the right of zero in US ANSI keyboards, and it is also an ASCII character, so you can just type it whenever needed.
 
 The *en-dash* is a dash that is longer than a hyphen. It should be used for ranges (e.g., pages 3–6).  In LaTeX, you should type *en-dashes* as two consecutive hyphens (`--`) to avoid confusion, as they can look very similar to hyphens in monospaced fonts.
 
@@ -42,6 +42,10 @@ Finally, the *em-dash* is even longer, and is used to introduce a parenthetical.
 ## Quotes
 
 LaTeX does not have "smart quotes".  You have to correctly angle quotes yourself.  For left-opening single quotes use the backtick character (here are two of them because of conflicts with Markdown code blocks ` `` `). For right-closing single quotes use the quote character (`'`). For double quotes, just type two of each character.  It will look like this in LaTeX: `Please do quoting the ``right'' way`.
+
+## Footnotes
+
+Footnotes should usually go after punctuation; see the examples in this post. This not only makes text look prettier, but also gives makes it clearer that the footnote refer to the whole preceding passage, not just a specific word. (If your footnote is specifically about what comes immediately before punctiation, then it is OK to place it before punctuation.)
 
 ## Wrap-up
 
