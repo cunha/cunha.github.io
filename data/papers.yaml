@@ -1,5 +1,24 @@
 ---
 - author:
+    - Lucas M. Ponce
+    - Indra Ribeiro
+    - Etelvina Oliveira
+    - Italo Cunha
+    - Cristine Hoepers
+    - Klaus Steding-Jessen
+    - Marcelo H. P. C. Chaves
+    - Dorgival Guedes
+    - Wagner Meira Jr.
+  title: "Identification of Services and Devices for Enhancing Vulnerability Analysis"
+  container: Journal of the Brazilian Computer Society
+  doi: 10.5753/jbcs.2026.5372 
+  id: ponce26vulnerability
+  type: article-journal
+  volume: 32
+  issue: 1
+  page: 586-599
+  issued: 2026
+- author:
     - Elverton Fazzion
     - Giancarlo Teixeira
     - Darryl Veitch
@@ -76,7 +95,7 @@
   volume: 9
   issue: 1
   page: 100107
-  issued: 2024   
+  issued: 2024
 - author:
     - Nils Rodday
     - Ítalo Cunha
