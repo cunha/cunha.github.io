@@ -37,7 +37,7 @@ We have three different dashes in writing text, each with different purposes in 
 
 The *en-dash* is a dash that is longer than a hyphen. It should be used for ranges (e.g., pages 3–6).  In LaTeX, you should type *en-dashes* as two consecutive hyphens (`--`) to avoid confusion, as they can look very similar to hyphens in monospaced fonts.
 
-Finally, the *em-dash* is even longer, and is used to introduce a parenthetical.  It is best usually avoided in favor of simple commas, but might come in handy when nesting parentheticals—in combination with commas—or for very long parentheticals.  It's not on your keyboard, not on your keyboard.  The worst, however, is that the UTF-8 character is usually rendered in a single cell in monospaced fonts, which makes it *not look like it should* in plain-text documents like LaTeX.  Indead, type it in LaTeX instead by using three consecutive hyphens (`---`).  Also note that there are no spaces around *em-dashes*, you just glue them to the surrounding words—like so.
+Finally, the *em-dash* is even longer, and is used to introduce a parenthetical.  It is best usually avoided in favor of simple commas, but might come in handy when nesting parentheticals—in combination with commas—or for very long parentheticals.  It's not on your keyboard, not on your keyboard.  The worst, however, is that the UTF-8 character is usually rendered in a single cell in monospaced fonts, which makes it *not look like it should* in plain-text documents like LaTeX.  Instead, type it in LaTeX instead by using three consecutive hyphens (`---`).  Also note that there are no spaces around *em-dashes*, you just glue them to the surrounding words—like so.
 
 ## Quotes
 
@@ -45,7 +45,35 @@ LaTeX does not have "smart quotes".  You have to correctly angle quotes yourself
 
 ## Footnotes
 
-Footnotes should usually go after punctuation; see the examples in this post. This not only makes text look prettier, but also gives makes it clearer that the footnote refer to the whole preceding passage, not just a specific word. (If your footnote is specifically about what comes immediately before punctiation, then it is OK to place it before punctuation.)
+Footnotes should usually go after punctuation; see the examples in this post. This not only makes text look prettier, but also gives makes it clearer that the footnote refer to the whole preceding passage, not just a specific word. (If your footnote is specifically about what comes immediately before punctuation, then it is OK to place it before punctuation.)
+
+## Emphasis
+
+LaTeX has a `\emph` command for emphasis. It toggles whether the text is in
+italics. Italics is preferable to bold for emphasis because italics catches
+your attention when you read it; bold catches your attention as soon as you
+turn the page. It's similar to all-caps in that regard. Do not use bold for
+emphasis; use bold only to convey structure (e.g., paragraph and section
+headers). Use emphasis judiciously. Adding `\emph` everywhere defeats the
+purpose, as nothing gets emphasized.
+
+In technical writing, it is customary to add emphasis to a technical term the
+first time it is defined. This is a hint to the reader that the term will be
+used consistently from then on. For text in Portuguese, avoid English terms
+when an equivalent one exists in Portuguese. When the English term is
+advantageous, typeset it in italics.
+
+For tool names or code-related things, prefer `\textsf` over `\texttt`, as
+`\texttt` does not mix well with serif used in running text. Some LaTeX style
+documents have a `\textsf` font that is larger than the serif font; if this is
+the case, consider using `\textsf{\small{}text}` instead.  For code, you can
+use the following to get a nice little code snippet:
+
+```latex
+\newcommand{\code}[1]{%
+  \tikz[baseline=(X.base)]\node[fill=gray!20,rounded corners=3pt,inner xsep=2pt,inner ysep=2pt,text height=0.6em,text depth=0.1em,anchor=base] (X) {\texttt{#1}};%
+}
+```
 
 ## Wrap-up
 
